@@ -13,8 +13,6 @@
 
 
 
-In this guide we will be using a bash script created by the Avalanche team, which will automatically set up a running node with minimum user input required.
-
 ## Install required dependencies
 In order to compile the `moonbeam` binary by yourself, you first need to setup the required dependencies. In this guide we will be using The Release binary instead, so you can [skip](/validator-zone/external-chains/moonbeam?id=install-moonbase-alpha) this step.
 
